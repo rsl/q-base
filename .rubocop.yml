@@ -1,0 +1,5 @@
+inherit_from:
+  - https://raw.githubusercontent.com/rsl/q-shared/main/.rubocop.yml
+
+AllCops:
+  NewCops: enable
